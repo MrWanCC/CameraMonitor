@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build output
+**/bin/
+**/obj/
+Output/
+
+# Local runtime configuration and generated state
+CameraMonitor/config.ini
+CameraMonitor/zlm-config.fingerprint
+CameraMonitor/**/camera-monitor.log
+
+# Restored NuGet packages
+packages/
